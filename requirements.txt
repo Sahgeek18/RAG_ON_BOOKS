@@ -6,3 +6,4 @@ langchain-google-genai
 tiktoken
 sentence-transformers
 python-dotenv
+PyPDF2
